@@ -1,5 +1,5 @@
 {
-  "name": "material-ui-responsive-drawer",
+  "name": "material-ui-responsive-drawer-vnext",
   "version": "1.19.4",
   "description": "React-Redux Component that uses Material-UI",
   "main": "lib/index.js",
@@ -54,9 +54,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TarikHuber/material-ui-responsive-drawer.git"
+    "url": "git+https://github.com/btasdoven/material-ui-responsive-drawer-vnext.git"
   },
   "bugs": {
-    "url": "https://github.com/TarikHuber/material-ui-responsive-drawer/issues"
+    "url": "https://github.com/btasdoven/material-ui-responsive-drawer-vnext/issues"
   }
 }
