@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { connect } from 'react-redux'
 import { toggleDrawerOpen } from './store/actions'
 import isResponsiveAndOverBreakPoint from './store/selectors'
-import AppBar from 'material-ui/AppBar'
+import AppBar from '@material-ui/core/AppBar'
 
 class ResponsiveAppBar extends Component {
   render () {
